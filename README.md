@@ -1,0 +1,3 @@
+# 2023 Bordie Charged Award Code
+
+Code for the two variations of the Bordie Charged awards. `awardv1` is the smaller award we offered and is much less complex. It features one led strip and one red led (named MOSI_LED). `awardsv2` is the  more complex and larger award we offered to the captain of the winning aliance at Bordie Charged. It features one led strip below the acryllic, two white leds below the acryllic, and more leds by the front plate of the award.
