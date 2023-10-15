@@ -14,8 +14,8 @@
 
 Adafruit_NeoPixel bordieLED(NUMPIXELS, LED, NEO_GRB + NEO_KHZ800);
 
-uint32_t teamColor1 = bordieLED.Color(0,255,0);
-uint32_t teamColor2 = bordieLED.Color(185,66,245);
+uint32_t teamColor1 = bordieLED.Color(255,255,255);
+uint32_t teamColor2 = bordieLED.Color(255,0,0);
 uint32_t redColor = bordieLED.Color(255,0,0);
 uint32_t whiteColor = bordieLED.Color(255, 255, 255);
 
